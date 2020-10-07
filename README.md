@@ -1,3 +1,18 @@
+# Introduction
+
+Code for paper [Minimax Value Interval for Off-Policy Evaluation and Policy Optimization](https://arxiv.org/abs/2002.02081). Please cite as follow if you find our code useful:
+
+```
+@article{jiang2020minimax,
+  title={Minimax Confidence Interval for Off-Policy Evaluation and Policy Optimization},
+  author={Jiang, Nan and Huang, Jiawei},
+  journal={arXiv preprint arXiv:2002.02081},
+  year={2020}
+}
+```
+
+
+
 # Instructions for running experiments
 
 ### Environments
